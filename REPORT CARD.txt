@@ -1,0 +1,10 @@
+STUDENT ID : 
+CSE01
+NAME : 
+RAHUL DUTTA
+Class Roll Number : 
+1
+Batch ID : 
+00987
+SUBJECTS : 
+Total : 0
